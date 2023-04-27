@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "563143266657",
+    "project_id": "cade-voce-2b078",
+    "storage_bucket": "cade-voce-2b078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563143266657:android:5e41d07d52660dbeda3520",
+        "android_client_info": {
+          "package_name": "com.example.cade_voce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563143266657-jo9o1spqg6ldg8ehbeqdhvjrv8i03mtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cade_voce",
+            "certificate_hash": "4b3b669a96381ee8b4b72176ac41cac9ab493ccb"
+          }
+        },
+        {
+          "client_id": "563143266657-r6cmpviqh3e0i9buqqf80m3vh07lbkts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvnSPeTnHWCoSf8UuMKwtnXzxRPro_t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563143266657-r6cmpviqh3e0i9buqqf80m3vh07lbkts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
